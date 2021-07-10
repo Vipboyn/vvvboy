@@ -1,4 +1,4 @@
-me: RDP-VPS
+name: RDP-VPS
 
 on: workflow_dispatch
 
